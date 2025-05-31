@@ -2,3 +2,4 @@ first txt file
 updated
 This is a new line.
 new line
+new line2
